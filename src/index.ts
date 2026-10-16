@@ -1,3 +1,5 @@
+export {};
+
 //Exercise 1
 let myName="Ken";
 
